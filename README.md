@@ -1,6 +1,6 @@
-# Hi there, I'm Manasvi! 👋
+# Hello there, I'm Manasvi! 👋
 
-I'm a **Full-Stack AI Developer** passionate about building intelligent applications, generative AI, and scalable backend systems. I focus on creating intent-centric tools, healthcare simulations, and recommendation systems.
+I am a Full-Stack AI Developer building intelligent systems that move beyond notebooks into usable products — from reinforcement-learning simulations and privacy tools to LLM-powered applications.
 
 ## 🚀 Top Projects
 
